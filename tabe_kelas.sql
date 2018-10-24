@@ -43,11 +43,11 @@ CREATE TABLE `tabe_kelas` (
 INSERT INTO `tabe_kelas` (`id`, `username`, `password`, `level`, `fullname`) VALUE
 (24,'Julia','haihai','admin','Julia Dwiana'),
 (25,'Marzandi','zanzan','user','Marzandi Zafran A L'),
-(26,'fikri','fikfik','user','muhammad Fikri'),
-(27,'hatta','hathat','user','muhammad hatta'),
-(28,'salman','salsal','user','muhammad salman abid');
+(26,'Fikri','fikfik','user','Muhammad Fikri'),
+(27,'Hatta','hathat','user','Muhammad Hatta'),
+(28,'Salman','salsal','user','Muhammad Slman Abid');
 
---
+-- 
 -- Indexes for dumped tables
 --
 

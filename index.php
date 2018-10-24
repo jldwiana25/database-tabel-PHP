@@ -7,6 +7,7 @@
 
   <div class="container">
   	<h2><center>DATA PESERTA</center></h2>
+      <a href="tambah.php">Tambah Data</a>
   	<table class="tabel" align="center">
   <tr>
   	<th>id</th>
